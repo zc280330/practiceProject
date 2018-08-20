@@ -1,13 +1,13 @@
 package sort;
 
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Scanner;
-import java.util.Set;
+import java.util.*;
+
 public class main {
+
 	public static Set<String> cur = new HashSet<String>();
     public static void main(String[] args) {
+		PriorityQueue<Integer> queue = new PriorityQueue<>();
+		queue.poll();
         Scanner in = new Scanner(System.in);
         String[] line = in.nextLine().split(",");       
         int m = Integer.parseInt(line[0]);
