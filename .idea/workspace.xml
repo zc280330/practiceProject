@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a56d130f-af68-4ec2-a5fe-c8597a1e3738" name="Default Changelist" comment="add:&#10;some practice">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basePractice/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basePractice/src/Util/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basePractice/src/leetcode/Leetcode1143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basePractice/src/leetcode/Leetcode337.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basePractice/src/leetcode/leetcode92.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basePractice/test_framwork.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="a56d130f-af68-4ec2-a5fe-c8597a1e3738" name="Default Changelist" comment="add:&#10;new module">
+      <change afterPath="$PROJECT_DIR$/demo-yidian/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-yidian/src/main/java/dao/UserPushHistoryDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/basePractice/target/" />
@@ -38,20 +30,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basePractice/src/leetcode/leetcode92.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basePractice/src/Util/ListNode.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basePractice/src/leetcode/leetcode34.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="152">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -217,10 +209,51 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="practiceProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basePractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-yidian" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-yidian" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-yidian" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-yidian" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-yidian" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-yidian" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="practiceProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -519,6 +552,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="CatdeaLogs" />
     </panes>
   </component>
@@ -527,7 +561,7 @@
     <property name="SearchEverywhereHistoryKey" value="I&#9;FILE&#9;file:///Users/admin/IdeaProjects/practiceProject/basePractice/src/sort/Quicksort.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616909670320" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619591918039" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -754,6 +788,7 @@
       <workItem from="1616909823160" duration="538000" />
       <workItem from="1617177958773" duration="384000" />
       <workItem from="1619581362062" duration="443000" />
+      <workItem from="1619582249972" duration="690000" />
     </task>
     <task id="LOCAL-00001" summary="add:&#10;some practice">
       <created>1611299762844</created>
@@ -762,16 +797,30 @@
       <option name="project" value="LOCAL" />
       <updated>1611299762844</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add:&#10;some practice">
+      <created>1619582303713</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619582303713</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add:&#10;new module">
+      <created>1619583092075</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619583092075</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128348000" />
+    <option name="totallyTimeSpent" value="129038000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1440" height="807" extended-state="0" />
+    <frame x="0" y="25" width="1440" height="813" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28746396" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2925072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -786,14 +835,14 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.5951469" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.5948276" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.65345824" weight="0.3716475" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.65345824" weight="0.37068966" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.3465418" side_tool="true" weight="0.31812578" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49713877" weight="0.3271028" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Spring" order="13" />
-      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32902297" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -813,7 +862,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add:&#10;some practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="add:&#10;some practice" />
+    <MESSAGE value="add:&#10;new module" />
+    <option name="LAST_COMMIT_MESSAGE" value="add:&#10;new module" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -908,13 +958,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basePractice/src/leetcode/leetcode34.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1179,7 +1222,7 @@
     <entry file="file://$PROJECT_DIR$/basePractice/src/leetcode/leetcode92.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -1246,6 +1289,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="931">
           <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basePractice/src/leetcode/leetcode34.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
