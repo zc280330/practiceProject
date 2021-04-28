@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a56d130f-af68-4ec2-a5fe-c8597a1e3738" name="Default Changelist" comment="add:&#10;new module">
-      <change afterPath="$PROJECT_DIR$/demo-yidian/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-yidian/src/main/java/dao/UserPushHistoryDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a56d130f-af68-4ec2-a5fe-c8597a1e3738" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/basePractice/target/" />
     <ignored path="$PROJECT_DIR$/demo-yidian/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,19 +27,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basePractice/src/leetcode/leetcode92.java">
+        <entry file="file://$PROJECT_DIR$/basePractice/src/leetcode/leetcode34.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            <state relative-caret-position="152">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basePractice/src/leetcode/leetcode34.java">
+        <entry file="file://$PROJECT_DIR$/demo-yidian/src/main/java/dao/UserPushHistoryDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="119">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -215,44 +214,6 @@
             <path>
               <item name="practiceProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="basePractice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practiceProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-yidian" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practiceProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-yidian" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practiceProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-yidian" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practiceProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-yidian" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practiceProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-yidian" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practiceProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-yidian" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="practiceProject" type="b2602c69:ProjectViewProjectNode" />
@@ -561,7 +522,7 @@
     <property name="SearchEverywhereHistoryKey" value="I&#9;FILE&#9;file:///Users/admin/IdeaProjects/practiceProject/basePractice/src/sort/Quicksort.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619591918039" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619592257135" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -788,7 +749,7 @@
       <workItem from="1616909823160" duration="538000" />
       <workItem from="1617177958773" duration="384000" />
       <workItem from="1619581362062" duration="443000" />
-      <workItem from="1619582249972" duration="690000" />
+      <workItem from="1619582249972" duration="774000" />
     </task>
     <task id="LOCAL-00001" summary="add:&#10;some practice">
       <created>1611299762844</created>
@@ -811,16 +772,23 @@
       <option name="project" value="LOCAL" />
       <updated>1619583092075</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add:&#10;new module">
+      <created>1619591929241</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619591929241</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129038000" />
+    <option name="totallyTimeSpent" value="129122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="813" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2925072" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2925072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -835,7 +803,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.5948276" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.40804598" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.65345824" weight="0.37068966" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.3465418" side_tool="true" weight="0.31812578" />
@@ -859,6 +827,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add:&#10;some practice" />
@@ -1137,16 +1131,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-yidian/src/main/java/dao/UserPushHistoryDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1903">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/3.0.0-cdh6.0.0/hadoop-common-3.0.0-cdh6.0.0-sources.jar!/org/apache/hadoop/security/SecurityUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
@@ -1296,6 +1280,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-yidian/src/main/java/dao/UserPushHistoryDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
