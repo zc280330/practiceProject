@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/basePractice/basePractice.iml" filepath="$PROJECT_DIR$/basePractice/basePractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-yidian/demo-yidian.iml" filepath="$PROJECT_DIR$/demo-yidian/demo-yidian.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/practiceProject.iml" filepath="$PROJECT_DIR$/.idea/practiceProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basePractice/test_framwork.iml" filepath="$PROJECT_DIR$/basePractice/test_framwork.iml" />
     </modules>
   </component>
 </project>
