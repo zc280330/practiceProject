@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: yidian.data.rawlog:rawlog_log_event:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/yidian/data/rawlog/rawlog_log_event/1.0.0-SNAPSHOT/rawlog_log_event-1.0.0-20210127.105310-707.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/yidian/data/rawlog/rawlog_log_event/1.0.0-SNAPSHOT/rawlog_log_event-1.0.0-20210127.105310-707-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/yidian/data/rawlog/rawlog_log_event/1.0.0-SNAPSHOT/rawlog_log_event-1.0.0-20210127.105310-707-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

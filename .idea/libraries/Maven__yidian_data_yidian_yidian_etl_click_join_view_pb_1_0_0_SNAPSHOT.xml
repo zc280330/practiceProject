@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: yidian.data.yidian:yidian_etl_click_join_view_pb:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/yidian/data/yidian/yidian_etl_click_join_view_pb/1.0.0-SNAPSHOT/yidian_etl_click_join_view_pb-1.0.0-20160526.081121-12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/yidian/data/yidian/yidian_etl_click_join_view_pb/1.0.0-SNAPSHOT/yidian_etl_click_join_view_pb-1.0.0-20160526.081121-12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/yidian/data/yidian/yidian_etl_click_join_view_pb/1.0.0-SNAPSHOT/yidian_etl_click_join_view_pb-1.0.0-20160526.081121-12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hipu.source:source-common:1.0.6-jenkins-serving-lib-2-920-12b27f42">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hipu/source/source-common/1.0.6-jenkins-serving-lib-2-920-12b27f42/source-common-1.0.6-jenkins-serving-lib-2-920-12b27f42.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hipu/source/source-common/1.0.6-jenkins-serving-lib-2-920-12b27f42/source-common-1.0.6-jenkins-serving-lib-2-920-12b27f42-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hipu/source/source-common/1.0.6-jenkins-serving-lib-2-920-12b27f42/source-common-1.0.6-jenkins-serving-lib-2-920-12b27f42-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

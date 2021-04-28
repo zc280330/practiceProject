@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: yidian.data.neo:common:3.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/yidian/data/neo/common/3.0.0-SNAPSHOT/common-3.0.0-20170208.121128-78.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/yidian/data/neo/common/3.0.0-SNAPSHOT/common-3.0.0-20170208.121128-78-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/yidian/data/neo/common/3.0.0-SNAPSHOT/common-3.0.0-20170208.121128-78-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

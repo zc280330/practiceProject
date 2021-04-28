@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: yidian.data.profile:profile-common:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/yidian/data/profile/profile-common/1.0.0-SNAPSHOT/profile-common-1.0.0-20160517.092053-37.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/yidian/data/profile/profile-common/1.0.0-SNAPSHOT/profile-common-1.0.0-20160517.092053-37-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/yidian/data/profile/profile-common/1.0.0-SNAPSHOT/profile-common-1.0.0-20160517.092053-37-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

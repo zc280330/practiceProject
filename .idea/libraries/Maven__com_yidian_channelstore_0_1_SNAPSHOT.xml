@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.yidian:channelstore:0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yidian/channelstore/0.1-SNAPSHOT/channelstore-0.1-20151111.055813-7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yidian/channelstore/0.1-SNAPSHOT/channelstore-0.1-20151111.055813-7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yidian/channelstore/0.1-SNAPSHOT/channelstore-0.1-20151111.055813-7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

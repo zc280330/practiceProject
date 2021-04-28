@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: yidian.data.morpheus:smartclient:1.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/yidian/data/morpheus/smartclient/1.0.1-SNAPSHOT/smartclient-1.0.1-20161212.034008-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/yidian/data/morpheus/smartclient/1.0.1-SNAPSHOT/smartclient-1.0.1-20161212.034008-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/yidian/data/morpheus/smartclient/1.0.1-SNAPSHOT/smartclient-1.0.1-20161212.034008-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

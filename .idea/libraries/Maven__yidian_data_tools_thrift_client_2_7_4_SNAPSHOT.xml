@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: yidian.data.tools:thrift.client:2.7.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/yidian/data/tools/thrift.client/2.7.4-SNAPSHOT/thrift.client-2.7.4-20160531.070003-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/yidian/data/tools/thrift.client/2.7.4-SNAPSHOT/thrift.client-2.7.4-20160531.070003-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/yidian/data/tools/thrift.client/2.7.4-SNAPSHOT/thrift.client-2.7.4-20160531.070003-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

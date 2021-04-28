@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hipu:featurestore-thrift:0.5-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hipu/featurestore-thrift/0.5-SNAPSHOT/featurestore-thrift-0.5-20170120.043027-850.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hipu/featurestore-thrift/0.5-SNAPSHOT/featurestore-thrift-0.5-20170120.043027-850-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hipu/featurestore-thrift/0.5-SNAPSHOT/featurestore-thrift-0.5-20170120.043027-850-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

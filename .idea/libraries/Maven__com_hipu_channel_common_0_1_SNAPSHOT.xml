@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hipu:channel-common:0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hipu/channel-common/0.1-SNAPSHOT/channel-common-0.1-20161208.112939-16.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hipu/channel-common/0.1-SNAPSHOT/channel-common-0.1-20161208.112939-16-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hipu/channel-common/0.1-SNAPSHOT/channel-common-0.1-20161208.112939-16-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

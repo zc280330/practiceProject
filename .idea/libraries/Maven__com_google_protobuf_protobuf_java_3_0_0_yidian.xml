@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.google.protobuf:protobuf-java:3.0.0-yidian">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.0.0-yidian/protobuf-java-3.0.0-yidian.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.0.0-yidian/protobuf-java-3.0.0-yidian-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.0.0-yidian/protobuf-java-3.0.0-yidian-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

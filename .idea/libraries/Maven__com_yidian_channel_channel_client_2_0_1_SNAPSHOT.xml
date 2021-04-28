@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.yidian.channel:channel-client:2.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yidian/channel/channel-client/2.0.1-SNAPSHOT/channel-client-2.0.1-20170613.065533-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yidian/channel/channel-client/2.0.1-SNAPSHOT/channel-client-2.0.1-20170613.065533-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/yidian/channel/channel-client/2.0.1-SNAPSHOT/channel-client-2.0.1-20170613.065533-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
